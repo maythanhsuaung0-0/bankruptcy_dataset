@@ -1,0 +1,9 @@
+check,count
+missing_cells,0
+rows_with_missing_values,0
+infinite_numeric_cells,0
+rows_with_infinite_values,0
+duplicate_rows_excluding_first,0
+all_rows_in_duplicate_groups,0
+duplicate_company_years_excluding_first,0
+all_rows_in_duplicate_company_year_groups,0
